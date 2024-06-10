@@ -15,16 +15,16 @@ The Hostel Parcel Management System is a comprehensive solution designed to mana
 - PHP >= 8.0
 - Composer
 - Laravel 10
-- MySQL or any other supported database
+- Xammp and MySQL
 - Web server (Apache, Nginx)
 
 # Clone the repository
-git clone [https://github.com/yourusername/hostel-parcel-management-system.git](https://github.com/RaysonKhoo/Final-Year-Project.git)
-composer install
+- git clone [https://github.com/yourusername/hostel-parcel-management-system.git](https://github.com/RaysonKhoo/Final-Year-Project.git)
+- composer install
 
 # Database Migration and Seeding:
-php artisan migrate --seed
+- php artisan migrate --seed
 
 
 # Run the Application:
-php artisan serve
+- php artisan serve
