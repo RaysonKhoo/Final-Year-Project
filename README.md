@@ -18,7 +18,7 @@ MySQL or any other supported database
 Web server (Apache, Nginx)
 
 Clone the Repository:
-git clone https://github.com/yourusername/hostel-parcel-management-system.git
+git clone [https://github.com/yourusername/hostel-parcel-management-system.git](https://github.com/RaysonKhoo/Final-Year-Project.git)
 composer install
 
 Database Migration and Seeding:
